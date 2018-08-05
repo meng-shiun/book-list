@@ -1,6 +1,6 @@
-# Tinder-like app
+# Book List
 
-A simple Tinder-like app to learn Redux & React.
+A simple book list to learn Redux.
 
 Following the course "Modern React with Redux" by Stephen Grider.
 

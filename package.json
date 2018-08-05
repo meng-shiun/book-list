@@ -1,7 +1,7 @@
 {
-  "name": "tinder",
+  "name": "book-list",
   "version": "1.0.0",
-  "description": "Simple Tinder-like app to learn Redux & React.",
+  "description": "Simple book list to learn Redux.",
   "main": "index.js",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
